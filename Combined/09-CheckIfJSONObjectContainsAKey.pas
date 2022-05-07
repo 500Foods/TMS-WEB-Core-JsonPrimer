@@ -14,6 +14,7 @@ begin
   asm
     if (JS_Object['carrot']) {console.log('JS Object contains carrot')}
     else {console.log('JS Object does not contain carrot')}
+    
     if (JS_Object['Batman']) { console.log('JS Object contains Batman')}
     else {console.log('JS Object does not contain Batman')}
   end;
@@ -21,6 +22,7 @@ begin
   if WC_Object['carrot'] <> nil
   then console.log('WC Object contains carrot')
   else console.log('WC Object does not contain carrot');
+  
   if WC_Object['Batman'] <> nil
   then console.log('WC Object contains Batman')
   else console.log('WC Object does not contain Batman');
@@ -28,6 +30,7 @@ begin
   if PAS_Object.getValue('carrot') <> nil
   then console.log('PAS Object contains carrot')
   else console.log('PAS Object does not contain carrot');
+  
   if PAS_Object.getValue('Batman') <> nil
   then console.log('PAS Object contains Batman')
   else console.log('PAS Object does not contain Batman');
