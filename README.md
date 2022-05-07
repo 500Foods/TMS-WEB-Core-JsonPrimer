@@ -4,8 +4,8 @@ This repository contains various code samples that first appeared in TMS Blog po
 [TMS WEB Core](https://www.tmssoftware.com/site/tmswebcore.asp). The original posts can be found in [Part 1](https://www.tmssoftware.com/site/blog.asp?post=928) and [Part 2](https://www.tmssoftware.com/site/blog.asp?post=932) and were originally posted on May 5th and 6th, 2022).
 
 **/Combined** contains the original code for Examples 2-31, where the JavaScript, Delphi and TMS WEB Core 
-variations are combined in each exacmple. **/Delphi**, **/JavaScript**, and **/TMS WEB Core** contain simplified versions of
-Examples 2-24, where only the specific variation is included, in an effort to simplify the code for those interested in just one variation.
+variations are combined in each example. **/Delphi**, **/JavaScript**, and **/TMS WEB Core** contain simplified versions of
+Examples 2-24, where only the specific variation is included, for those interested in just the one variation.
 
 - 02 : Defining Objects
 - 03 : Loading JSON Sample Data
