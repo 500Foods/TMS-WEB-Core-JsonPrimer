@@ -17,7 +17,7 @@ in a Delphi function which isn't strictly necessary in the case of JavaScript.
 
 If you have some ideas for improvements to any of the examples or would like some examples of other functionality
 using JSON within TMS WEB Core projects, or if you find issues with any of the examples posted, by all means please
-post an Issue and I will see what we can do about it.
+post an Issue or a Discussion item.
 
 If you find this repository useful to your work and that it has saved you time or effort when it comes to crafting
 a better TMS WEB Core project, please consider https://www.buymeacoffee.com/andrewsimard500.
