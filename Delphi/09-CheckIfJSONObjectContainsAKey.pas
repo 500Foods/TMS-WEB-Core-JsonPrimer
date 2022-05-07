@@ -11,6 +11,7 @@ begin
   if PAS_Object.getValue('carrot') <> nil
   then console.log('PAS Object contains carrot')
   else console.log('PAS Object does not contain carrot');
+  
   if PAS_Object.getValue('Batman') <> nil
   then console.log('PAS Object contains Batman')
   else console.log('PAS Object does not contain Batman');
