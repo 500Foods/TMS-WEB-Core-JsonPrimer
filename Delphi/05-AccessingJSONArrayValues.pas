@@ -7,7 +7,6 @@ const
   
 begin
   PAS_Array := TJSONObject.ParseJSONValue(SampleArrayData) as TJSONArray;
-
   console.log('PAS Array[3] is: '+((PAS_Array[3] as TJSONObject).getValue('name') as TJSONString).Value+' / '+((PAS_Array[3] as TJSONObject).getValue('type') as TJSONString).Value);
 end;
 
