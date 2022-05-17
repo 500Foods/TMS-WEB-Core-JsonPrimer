@@ -45,6 +45,10 @@ post an Issue or a Discussion item.
 If you find this repository useful to your work or that it has saved you time or effort when it comes to crafting
 a better TMS WEB Core project, please consider supporting my efforts via "[Buy Me A :pizza:](https://www.buymeacoffee.com/andrewsimard500)".
 
+You may also be interested in my other repositories.
+- [JSExtend](https://github.com/500Foods/TMS-WEB-Core-JSExtend)
+
+
 Enjoy!
 
 Andrew Simard, Founder,   
