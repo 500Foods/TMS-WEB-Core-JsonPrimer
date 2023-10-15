@@ -38,17 +38,27 @@ Examples 2-24, where only the specific variation is included, for those interest
 - 30 : JSON to TDataset (Simple)
 - 31 : JSON to TDataset (Complex)
 
-&nbsp;  
-
 If you have ideas for improvements to any of the Examples or would like some examples of other functionality
 using JSON within TMS WEB Core projects, or if you find issues with any of the examples posted, by all means please
 post an Issue or a Discussion item.
 
-&nbsp;  
-
 ## Key Dependencies
 While a solid understanding of JSON would help here, the point of the repository is to help understand how to use JSON in a TMS WEB Core or other Delphi project, potentially at a very basic level. As a result, there is only one key dependency to be aware of.
 - [TMS WEB Core](https://www.tmssoftware.com/site/tmswebcore.asp) - This is a TMS WEB Core project, after all
+
+## Repository Information
+[![Count Lines of Code](https://github.com/500Foods/TMS-WEB-Core-JsonPrimer/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/TMS-WEB-Core-JsonPrimer/actions/workflows/main.yml)
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Pascal                          99            458           1040           1989
+Markdown                         2             43              0            139
+YAML                             2              4              8             15
+-------------------------------------------------------------------------------
+SUM:                           103            505           1048           2143
+-------------------------------------------------------------------------------
+```
 
 ## Sponsor / Donate / Support
 If you find this work interesting, helpful, or useful, or that it has sved you time, money, or both, please consider direclty supporting these efforts financially via [GitHub Sponsors](https://github.com/sponsors/500Foods) or donating via [Buy Me a Pizza](https://www.buymeacoffee.com/andrewsimard500). Also, be sure to check out these other [GitHub Repositories](https://github.com/500Foods?tab=repositories&q=&sort=stargazers) that may be of interest to you.
