@@ -50,7 +50,7 @@ While a solid understanding of JSON would help here, the point of the repository
 [![Count Lines of Code](https://github.com/500Foods/TMS-WEB-Core-JsonPrimer/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/TMS-WEB-Core-JsonPrimer/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```
-Last Updated at 2023-11-27 02:42:43 UTC
+Last Updated at 2023-12-24 05:09:34 UTC
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
